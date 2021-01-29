@@ -3,6 +3,7 @@
 Basic commands:
 
 npm install @angular/latest
+
 npm install bootstrap
 npm install jquery
 
